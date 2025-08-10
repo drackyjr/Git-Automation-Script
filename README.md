@@ -179,7 +179,7 @@ This project is licensed under the MIT License.
 
 ## Contact and Support
 
-Created as a comprehensive portfolio project to demonstrate practical Git automation, scripting skills, and professional development practices.
+Created as a comprehensive project to demonstrate practical Git automation, scripting skills and professional development practices.
 
 ***
 
