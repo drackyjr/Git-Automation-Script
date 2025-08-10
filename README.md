@@ -175,13 +175,7 @@ Contributions and suggestions are welcome. Please fork and submit pull requests 
 
 This project is licensed under the MIT License.
 
-***
-
-## Contact and Support
-
-Created as a comprehensive project to demonstrate practical Git automation, scripting skills and professional development practices.
 
 ***
 
-*Happy coding and best wishes on your development journey!*
 
