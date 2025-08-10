@@ -18,12 +18,6 @@ git-automation.sh:
 - Colored output for enhanced user experience
 - Professional documentation and help system
 
-README.md:
-- Detailed installation and setup guide
-- Usage examples for different scenarios
-- Educational value explanation for interviews
-- Professional documentation standards
-
 setup-test.sh:
 - Creates isolated test Git repository
 - Sets up sample files for demonstration
@@ -44,10 +38,3 @@ Technical Skills:
 - Error handling and input validation
 - File system operations and process control
 - Professional code organization
-
-Professional Skills:
-- Code documentation and commenting
-- User experience design in CLI tools
-- Project structure and organization
-- Testing and quality assurance mindset
-- Professional development practices
