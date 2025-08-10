@@ -3,7 +3,7 @@
 
 ## Overview
 
-The Git Automation Script is a professional Bash script designed to simplify and automate common Git workflows. This tool helps developers—especially entry-level—manage branch creation, commit changes, and push updates to remote repositories with minimal manual input. It streamlines the most repetitive Git tasks into an efficient, error-resistant process, making Git version control more accessible and convenient.
+The Git Automation Script is a professional Bash script designed to simplify and automate common Git workflows. This tool helps developers especially entry level manage branch creation, commit changes, and push updates to remote repositories with minimal manual input. It streamlines the most repetitive Git tasks into an efficient, error-resistant process, making Git version control more accessible and convenient.
 
 ***
 
