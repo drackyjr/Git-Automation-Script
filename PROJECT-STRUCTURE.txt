@@ -2,10 +2,10 @@ Git Automation Script Project Structure
 =====================================
 
 git-automation-project/
-├── git-automation.sh          # Main automation script (200+ lines)
-├── README.md                  # Comprehensive documentation
+├── git-automation.sh          # Main automation script 
+├── README.md                  # documentation
 ├── setup-test.sh              # Test environment setup
-├── demo.sh                    # Feature demonstration script
+├── demo.sh                    # demonstration script
 └── PROJECT-STRUCTURE.txt      # This file - project overview
 
 Key Files Description:
